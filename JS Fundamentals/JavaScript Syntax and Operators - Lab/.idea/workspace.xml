@@ -2,13 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f797cf54-1316-4447-a5a0-7900d4ad029c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01. String Length.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02. Math Operations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. Sum of Numbers N…M.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. Largest Number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05. Circle Area.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow - Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions and Logic Flow - Lab/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Fundamentals-JavaScript-Syntax-and-Operators-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/.idea/Document Object Model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/images/card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/images/whiteCard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/01_Cards/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/02_Chat-Room-with-Pesho/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/02_Chat-Room-with-Pesho/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/02_Chat-Room-with-Pesho/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/02_Chat-Room-with-Pesho/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/02_Chat-Room-with-Pesho/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/02_Chat-Room-with-Pesho/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/03_Encode-and-Decode-Messages/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/03_Encode-and-Decode-Messages/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/03_Encode-and-Decode-Messages/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/03_Encode-and-Decode-Messages/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/03_Encode-and-Decode-Messages/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/03_Encode-and-Decode-Messages/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/04_Locked-Profile/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/04_Locked-Profile/images/iconProfile2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/04_Locked-Profile/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/04_Locked-Profile/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/04_Locked-Profile/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/04_Locked-Profile/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/04_Locked-Profile/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/05_Number-Convertor/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/05_Number-Convertor/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/05_Number-Convertor/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/05_Number-Convertor/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/05_Number-Convertor/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/05_Number-Convertor/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/06_SoftUni-Quizz/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/06_SoftUni-Quizz/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/06_SoftUni-Quizz/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/06_SoftUni-Quizz/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/06_SoftUni-Quizz/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/06_SoftUni-Quizz/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/07_Table-Search-Engine/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/07_Table-Search-Engine/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/07_Table-Search-Engine/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/07_Table-Search-Engine/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/07_Table-Search-Engine/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/07_Table-Search-Engine/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/08_Toto-Numbers/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/08_Toto-Numbers/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/08_Toto-Numbers/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/08_Toto-Numbers/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/08_Toto-Numbers/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/08_Toto-Numbers/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/09_Virus-Installer/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/09_Virus-Installer/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/09_Virus-Installer/images/virus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/09_Virus-Installer/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/09_Virus-Installer/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/09_Virus-Installer/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/09_Virus-Installer/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/10_No-Signal/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/10_No-Signal/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/10_No-Signal/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/10_No-Signal/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/10_No-Signal/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/10_No-Signal/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document Object Model/JS-Fundamentals-Document-Object-Model-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/.idea/Functions and Logic Flow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/01_Leap-Year/images/SoftUniFoundation_Logo_OneLine_White@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/01_Leap-Year/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/01_Leap-Year/images/cw_2_New_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/01_Leap-Year/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/01_Leap-Year/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/01_Leap-Year/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/02_Simple-Number-Validator/images/SoftUniFoundation_Logo_OneLine_White@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/02_Simple-Number-Validator/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/02_Simple-Number-Validator/images/cw_2_New_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/02_Simple-Number-Validator/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/02_Simple-Number-Validator/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/02_Simple-Number-Validator/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/03_EGN-Validator/images/SoftUniFoundation_Logo_OneLine_White@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/03_EGN-Validator/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/03_EGN-Validator/images/cw_2_New_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/03_EGN-Validator/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/03_EGN-Validator/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/03_EGN-Validator/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/04_Cooking-Numbers/images/SoftUniFoundation_Logo_OneLine_White@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/04_Cooking-Numbers/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/04_Cooking-Numbers/images/cw_2_New_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/04_Cooking-Numbers/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/04_Cooking-Numbers/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/04_Cooking-Numbers/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/05_Cards-Generator/images/SoftUniFoundation_Logo_OneLine_White@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/05_Cards-Generator/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/05_Cards-Generator/images/cw_2_New_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/05_Cards-Generator/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/05_Cards-Generator/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/05_Cards-Generator/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/06_Greatest-Common-Divisor/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/06_Greatest-Common-Divisor/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/06_Greatest-Common-Divisor/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/06_Greatest-Common-Divisor/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/06_Greatest-Common-Divisor/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/06_Greatest-Common-Divisor/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/07_Binary-Search/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/07_Binary-Search/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/07_Binary-Search/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/07_Binary-Search/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/07_Binary-Search/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/07_Binary-Search/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/08_Hailstone-Sequence/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/08_Hailstone-Sequence/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/08_Hailstone-Sequence/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/08_Hailstone-Sequence/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/08_Hailstone-Sequence/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/08_Hailstone-Sequence/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/09_Dot-Product/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/09_Dot-Product/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/09_Dot-Product/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/09_Dot-Product/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/09_Dot-Product/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/09_Dot-Product/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/10_Factors/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/10_Factors/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/10_Factors/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/10_Factors/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/10_Factors/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/10_Factors/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/JS-Fundamentals-Functions-and-Logic-Flow-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/.idea/JavaScript Syntax and Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/01. I Like JavaScript!.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/02. Even Numbers 1 to N.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/03. Fruit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/04. Fitness Rates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/05. Greatest Common Divisor – GCD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/06. Same Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/07. Time to Walk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/08. Flight Timetable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/09. Calorie Object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/10. Coffee Machine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Syntax and Operators/JS-Fundamentals-JavaScript-Syntax-and-Operators-Exercise.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,8 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,22 +237,19 @@
       <option name="presentableId" value="Default" />
       <updated>1548599826384</updated>
       <workItem from="1548599828263" duration="1006000" />
+      <workItem from="1548601070833" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1006000" />
+    <option name="totallyTimeSpent" value="1020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -112,6 +257,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
