@@ -6,29 +6,24 @@ function solve() {
 
     let matrix = multiply(firstMatrix, secondMatrix);
 
-    for (let matrixElement of matrix) {
+    for (let array of matrix) {
         let p = document.createElement('p');
-        p.textContent = matrixElement.join(', ');
+        p.textContent = array.join(', ');
 
         document.getElementById('result').appendChild(p);
     }
 
-    function multiply(a, b) {
-        let aNumRows = a.length;
-        let aNumCols = a[0].length;
-        let bNumRows = b.length;
-        let bNumCols = b[0].length;
-
-        let m = [aNumRows];
-        for (let r = 0; r < aNumRows; ++r) {
-            m[r] = [bNumCols];
-            for (let c = 0; c < bNumCols; ++c) {
-                m[r][c] = 0;
-                for (let i = 0; i < aNumCols; ++i) {
-                    m[r][c] += a[r][i] * b[i][c];
+    function multiply(firstMatrix, secondMatrix) {
+        let matrix = [];
+        for (let r = 0; r < firstMatrix.length; ++r) {
+            matrix[r] = [];
+            for (let c = 0; c < secondMatrix[0].length; ++c) {
+                matrix[r][c] = 0;
+                for (let i = 0; i < firstMatrix[0].length; ++i) {
+                    matrix[r][c] += firstMatrix[r][i] * secondMatrix[i][c];
                 }
             }
         }
-        return m;
+        return matrix;
     }
 }
