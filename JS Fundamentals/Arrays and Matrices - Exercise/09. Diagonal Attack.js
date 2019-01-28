@@ -1,5 +1,36 @@
-function solve(input){
-    //TODO
+function solve(inputArray){
+    let firstDiagonal = 0;
+    let secondDiagonal = 0;
+
+    let matrix = [];
+    for (let row = 0; row < inputArray.length; row++) {
+        matrix[row] = inputArray[row].split(' ').map(x => Number(x));
+        for (let col = 0; col < matrix[row].length; col++) {
+            if (row === col){
+                firstDiagonal += matrix[row][col];
+            }
+
+            if (row + col === matrix[row].length - 1)
+            {
+                secondDiagonal += matrix[row][col];
+            }
+        }
+    }
+
+    if (firstDiagonal === secondDiagonal){
+        for (let row = 0; row < matrix.length; row++) {
+            for (let col = 0; col < matrix[row].length; col++) {
+                if (row !== col && row + col !== matrix[row].length - 1){
+                    matrix[row][col] = firstDiagonal;
+                }
+            }
+        }
+    }
+
+
+    for (let row = 0; row < matrix.length; row++) {
+        console.log(matrix[row].join(' '));;
+    }
 }
 
 solve(['5 3 12 3 1',
