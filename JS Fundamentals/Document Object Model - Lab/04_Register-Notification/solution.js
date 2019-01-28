@@ -8,17 +8,16 @@ function register() {
     return;
    }
 
-   setTimeout(() => {
-       let successfulRegistration = document.createElement('h1');
-       successfulRegistration.textContent = 'Successful Registration!';
+   let successfulRegistration = document.createElement('h1');
+   successfulRegistration.textContent = 'Successful Registration!';
 
-       let result = document.querySelector('#result');
+   let result = document.querySelector('#result');
+   result.appendChild(successfulRegistration);
+   result.appendChild(document.createTextNode(`Username: ${username}`));
+   result.appendChild(document.createElement('br'));
+   result.appendChild(document.createTextNode(`Email: ${email}`));
+   result.appendChild(document.createElement('br'));
+   result.appendChild(document.createTextNode(`Password: ${'*'.repeat(password.length)}`));
 
-       result.appendChild(successfulRegistration);
-       result.appendChild(document.createTextNode(`Username: ${username}`));
-       result.appendChild(document.createElement('br'));
-       result.appendChild(document.createTextNode(`Email: ${email}`));
-       result.appendChild(document.createElement('br'));
-       result.appendChild(document.createTextNode(`Password: ${'*'.repeat(password.length)}`));
-   }, 5000);
+   setTimeout(() => { result.innerHTML = '' }, 5000);
 }

@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b91e598-83d5-4d4d-b065-07b94730fa83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Articles-List/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_Articles-List/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Format-the-Text/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_Format-the-Text/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Growing-Word/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_Growing-Word/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Growing-Word/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Growing-Word/template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_Register-Notification/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_Register-Notification/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Visited-Sites/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/05_Visited-Sites/solution.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04_Register-Notification/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -42,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02_Format-the-Text/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="544">
               <caret line="32" column="31" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="31" />
             </state>
           </provider>
@@ -57,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/02_Format-the-Text/solution.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -65,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03_Growing-Word/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="408">
+              <caret line="24" column="22" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -75,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/03_Growing-Word/solution.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_Articles-List/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="459">
               <caret line="27" column="37" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="37" />
             </state>
           </provider>
@@ -97,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04_Register-Notification/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="26" column="18" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="237">
+              <caret line="27" column="12" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -139,6 +133,11 @@
               <item name="Document Object Model - Lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="Document Object Model - Lab" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Document Object Model - Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Document Object Model - Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Register-Notification" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html (4)">
+  <component name="RunManager" selected="JavaScript Debug.template.html (1)">
     <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63345/Document Object Model - Lab/04_Register-Notification/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -181,10 +180,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="JavaScript Debug.template.html (4)" />
         <item itemvalue="JavaScript Debug.template.html (3)" />
         <item itemvalue="JavaScript Debug.template.html (2)" />
-        <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="JavaScript Debug.template.html" />
       </list>
     </recent_temporary>
@@ -200,22 +199,20 @@
       <option name="presentableId" value="Default" />
       <updated>1548601085865</updated>
       <workItem from="1548601089632" duration="9795000" />
+      <workItem from="1548618493331" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9795000" />
+    <option name="totallyTimeSpent" value="10499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
@@ -223,6 +220,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,16 +250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Articles-List/template.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Articles-List/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01_Articles-List/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -266,48 +257,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_Format-the-Text/template.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_Format-the-Text/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="544">
           <caret line="32" column="31" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="31" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02_Format-the-Text/template.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/02_Format-the-Text/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Growing-Word/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="408">
+          <caret line="24" column="22" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Growing-Word/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Articles-List/template.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Articles-List/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_Register-Notification/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="18" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="237">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_Register-Notification/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
