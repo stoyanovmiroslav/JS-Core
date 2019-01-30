@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8fa5126-3894-4b4d-8746-2d23bb9ba681" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/09. Diagonal Attack.js" beforeDir="false" afterPath="$PROJECT_DIR$/09. Diagonal Attack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Orbit.js" beforeDir="false" afterPath="$PROJECT_DIR$/10. Orbit.js" afterDir="false" />
-    </list>
+    <list default="true" id="a8fa5126-3894-4b4d-8746-2d23bb9ba681" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,7 +58,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,6 +69,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,11 +130,12 @@
       <workItem from="1548675763990" duration="12401000" />
       <workItem from="1548691033143" duration="6690000" />
       <workItem from="1548699656050" duration="3479000" />
+      <workItem from="1548763021739" duration="64000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23496000" />
+    <option name="totallyTimeSpent" value="23560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
