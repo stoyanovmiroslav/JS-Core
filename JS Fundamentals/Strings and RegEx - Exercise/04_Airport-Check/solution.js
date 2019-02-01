@@ -32,7 +32,7 @@ function solve() {
     }
 
     function getCompany(text) {
-        let regexCompany = /-(\s[A-Z][A-za-z]*\*[A-Z][A-za-z]*\s)/gm;
+        let regexCompany = /-(\s[A-Z][A-Za-z]*\*[A-Z][A-Za-z]*\s)/gm;
         return regexCompany.exec(text)[1].trim().replace('*', ' ');
     }
 
