@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a364a6b9-709d-499d-8780-e1492892cbfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/04_Airport-Check/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_Airport-Check/solution.js" afterDir="false" />
-    </list>
+    <list default="true" id="a364a6b9-709d-499d-8780-e1492892cbfb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04_Airport-Check/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="69" lean-forward="true" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+            <state relative-caret-position="526">
+              <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -150,14 +148,16 @@
       <workItem from="1548935443953" duration="1804000" />
       <workItem from="1548964890807" duration="26265000" />
       <workItem from="1549037494911" duration="30000" />
+      <workItem from="1549094829452" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28099000" />
+    <option name="totallyTimeSpent" value="28125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04_Airport-Check/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="69" lean-forward="true" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        <state relative-caret-position="526">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
         </state>
       </provider>
     </entry>
