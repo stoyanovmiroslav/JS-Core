@@ -4,14 +4,11 @@ function solve() {
 
     function clickEvent(e) {
         let input = document.getElementById('input').value;
-        let numberOfCharacters = Number(input.match(/[0-9]+/)[0]);
+        let numberOfCharacter = Number(input.match(/[0-9]+/)[0]);
 
-        let numberOfCharacterLength = numberOfCharacters.toString().length;
+        let numberOfCharacterLength = numberOfCharacter.toString().length;
 
-        //TODO: Check!!!
-        //input = input.split('').slice(numberOfCharacterLength, numberOfCharacter);
-
-        input = input.split('').slice(numberOfCharacterLength).slice(0, numberOfCharacters);
+        input = input.split('').slice(numberOfCharacterLength, numberOfCharacter + numberOfCharacterLength);
 
         let separator = input.pop();
         let inputArgs = input.join('').split(separator);

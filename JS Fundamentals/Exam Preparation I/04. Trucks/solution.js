@@ -1,7 +1,7 @@
 function solve() {
     let buttons = document.querySelectorAll('#exercise fieldset button');
 
-    Array.from(buttons).filter(x => x.textContent === 'Add new truck')[0].addEventListener('click', AddTrack);
+    Array.from(buttons).filter(x => x.textContent === 'Add new truck')[0].addEventListener('click', AddTruck);
     Array.from(buttons).filter(x => x.textContent === 'Add new tires')[0].addEventListener('click', AddTires);
     Array.from(buttons).filter(x => x.textContent === 'Go to work')[0].addEventListener('click', goToWork);
     document.querySelector('#exercise section > button').addEventListener('click', endOfShift);
@@ -13,19 +13,19 @@ function solve() {
     let trucks = [];
     let tires = [];
 
-    function AddTrack() {
+    function AddTruck() {
         let newTruckPlateNumber = document.getElementById('newTruckPlateNumber').value;
         let newTruckTiresCondition = document.getElementById('newTruckTiresCondition').value
                                                 .split(' ').map(Number);
 
-        let track = {
+        let truck = {
             plateNumber: newTruckPlateNumber,
             tiresCondition: newTruckTiresCondition,
             distance: 0
         };
 
         appendTruck(newTruckPlateNumber);
-        trucks.push(track);
+        trucks.push(truck);
     }
 
     function AddTires() {
@@ -43,6 +43,7 @@ function solve() {
         }
 
         let track = trucks.find(x => x.plateNumber === workPlateNumber);
+
         if (Math.min(...track.tiresCondition) * 1000 < distance){
             changeTires(track);
         }
